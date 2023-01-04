@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- <!DOCTYPE statement SYSTEM "xsl/statement.dtd"> -->
+<!-- $Revision: 1.23 $ $Date: 2007/10/19 08:26:23 $ -->
+<statement>
+	<header>
+		<stmt number="2022000013" periodicity-description="měsíční"
+			date="2022-12-31" date-previous="2022-12-02" trn-cnt="110" 
+			attachment-type="0"/>
+		<address-branch>
+			<name>MMB, a. s. KROMĚŘÍŽ</name>
+			<adr1>DOBROVSKÉHO 98/6</adr1>
+			<adr2>KROMĚŘÍŽ</adr2>
+			<psc>767 01</psc>
+		</address-branch>
+		<account number="237584147" iban="CZ3806000000000237584147" currency="CZK">
+			<stm-bgn-bal>2969.89</stm-bgn-bal>
+			<debit-tov>75782.30</debit-tov>
+			<credit-tov>101800.00</credit-tov>
+			<debit-tov-ytd>836335.76</debit-tov-ytd>
+			<credit-tov-ytd>860981.22</credit-tov-ytd>
+			<mt-ren-date></mt-ren-date>
+			<cur-rat></cur-rat>
+			<cur-bal-eur>.00</cur-bal-eur>
+			<ren-opt></ren-opt>
+			<prev-rat></prev-rat>
+			<infolimit view="1"><il-data position="left_1"><b>K datu 10.12.2022 Vám můžeme půjčit navíc až:</b></il-data>
+<il-data position="left_2">Nová Expres půjčka</il-data>
+<il-data position="right_2">500 000,00</il-data>
+<il-data position="left_3">Možnost čerpat do mínusu Váš běžný účet - Flexikredit</il-data>
+<il-data position="right_3">93 000,00</il-data>
+<il-data position="left_4">Kreditní karta</il-data>
+<il-data position="right_4">129 000,00</il-data>
+<il-data position="left_6"><span style="font-size: 7pt;">Na poskytnutí výše uvedených úvěrů není právní nárok. Nejedná se o závaznou nabídku. Údaje infolimitu mají informativní charakter.</span></il-data></infolimit>
+			<rates><rt-data position="left_1"><b>Dovolujeme si Vás upozornit, že v případě nepovoleného debetu bežného účtu jsme oprávněni účtovat</b></rt-data>
+<rt-data position="left_2"><b>následující poplatky a úroky:</b></rt-data>
+<rt-data position="left_4">Smluvní úrok z nepovoleného debetního zůstatku</rt-data>
+<rt-data position="right_4">dle aktuálního Úrokového lístku</rt-data></rates>
+			<infolimit-campaign view=""></infolimit-campaign>
+			<payment-plan-amount></payment-plan-amount>
+		</account>
+		<customer flag="M" cust-type="P" cust-ico="">
+			<address-customer>
+				<name>Mgr. Michal Doležel</name>
+				<adr1>č.p. 64</adr1>
+				<adr2>768 31 Zlobice - Bojanovice</adr2>
+				<adr3></adr3>
+				<adr4></adr4>
+				<adr5></adr5>
+				<psc></psc>
+			</address-customer>
+		</customer>
+		
+		<stm-bal-end>28987.59</stm-bal-end>
+		<stm-bal-end-eur>.00</stm-bal-end-eur>
+		<pr-bal></pr-bal>
+		<pst-due-prnc></pst-due-prnc>
+		<pst-due-int></pst-due-int>
+		<lt-int-due></lt-int-due>
+		<lt-int-int></lt-int-int>
+		<fee-int-int></fee-int-int>
+		<ln-bal-end></ln-bal-end>
+		<sts>
+			<st name="dist" symb="398" total="" />
+			<st name="pr-rp" symb="498" total="" />
+			<st name="int-pmt" symb="598" total="" />
+			<st name="lt-int-pmt" symb="598" total="" />
+			<st name="fee-int-pmt" symb="598" total="" />
+		</sts>
+		<advertising>
+			<adv-msg></adv-msg>
+			<adv-msg></adv-msg>
+			<adv-msg></adv-msg>
+			<adv-msg></adv-msg>
+		</advertising>
+
+		<marketing-info></marketing-info>
+
+		<saving-flow>
+			<bonus-rate>.0000</bonus-rate>
+			<turn-date></turn-date>
+			<disp-end-date></disp-end-date>
+			<description>Běžný účet</description>
+		</saving-flow>
+		<deposits>
+			<description></description>
+			<date-from></date-from>
+			<date-to></date-to>
+			<date-due></date-due>
+			<base-rate></base-rate>
+			<prem-rate></prem-rate>
+			<rev-period></rev-period>
+			<rev-base></rev-base>
+			<rev-prem></rev-prem>
+		</deposits>
+		<flex-limit>.00</flex-limit>
+		<flex-rate>.0000</flex-rate>
+		<loyalty-info total-reward=".00" flag="0"
+			cycle-from="" cycle-to=""
+			total-cycle-reward=".00" limit-flag="0" />
+	</header>
+	<transactions>
+		
+                <transaction id="221202V0335363" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-01" date-eff="2022-12-05"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-405.10" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">ALBERT VAM DEKUJE KOJETIN CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221202V0511679" other-account-number="PLATBA KARTOU V ČR" date-post="2022-11-30" date-eff="2022-12-05"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-519.50" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">CS KROMERIZ KROMERIZ CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221203XSB4090660099" other-account-number="237585326/0600" date-post="2022-12-03" date-eff="2022-12-05"
+                        var-sym="0" con-sym="0" spec-sym="" amount="1000.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">DOLEŽEL MICHAL</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221205V0229309" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-03" date-eff="2022-12-06"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-872.30" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">ALBERT VAM DEKUJE KOJETIN CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221205V0634103" other-account-number="PLATBA KARTOU ONLINE" date-post="2022-12-03" date-eff="2022-12-06"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-49.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">ULOZ.TO/ Praha 1 CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221205V0887503" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-02" date-eff="2022-12-06"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-554.90" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">CS KROMERIZ KROMERIZ CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221205V1397545" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-04" date-eff="2022-12-06"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-205.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">KAVARNA ALEX KOJETIN CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221205V1451615" other-account-number="PLATBA KARTOU ONLINE" date-post="2022-12-04" date-eff="2022-12-06"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-159.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">GOPAY  *NOVA.CZ https://voyo.</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221206XSB0123402114" other-account-number="237585326/0600" date-post="2022-12-06" date-eff="2022-12-06"
+                        var-sym="0" con-sym="0" spec-sym="" amount="4000.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">DOLEŽEL MICHAL</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221206M00093726369" other-account-number="2064330104/2600" date-post="2022-12-06" date-eff="2022-12-06"
+                        var-sym="8068843711" con-sym="" spec-sym="" amount="-675.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">PŘÍKAZ K ÚHRADĚ</trn-message>
+</trn-messages>
+<trn-messages type="debit">
+<trn-message position="1">SB: 06.12.2022/16:43:26 0655281635</trn-message>
+</trn-messages>
+<trn-messages type="credit">
+<trn-message position="1">SB: 06.12.2022/16:43:26 0655281635</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221206V0331609" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-05" date-eff="2022-12-07"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-32.90" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">ALBERT VAM DEKUJE BRNO CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221206V0331611" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-05" date-eff="2022-12-07"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-53.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">POTRAVINY BRNO CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221206V0465989" other-account-number="PLATBA KARTOU ONLINE" date-post="2022-12-05" date-eff="2022-12-07"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-100.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">studentagency.cz Brno CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221207V0314635" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-06" date-eff="2022-12-08"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-719.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">ZASILKOVNA S.R.O. 765 KOJETIN</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221207V0405877" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-06" date-eff="2022-12-08"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-457.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">ELECTRO WORLD BRNO DOR BRNO CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221207V0643671" other-account-number="VÝBĚR HOTOVOSTI" date-post="2022-12-06" date-eff="2022-12-08"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-200.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">CS, KRENOVA 409/52 BRNO-STRED</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221207V0932081" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-05" date-eff="2022-12-08"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-50.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">IDSJMK.CZ*2eebe95cb0 BRNO CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221207V0988623" other-account-number="PLATBA KARTOU ONLINE" date-post="2022-12-06" date-eff="2022-12-08"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-100.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">studentagency.cz Brno CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221207V1150757" other-account-number="VÝBĚR HOTOVOSTI" date-post="2022-12-06" date-eff="2022-12-08"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-800.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">KB MASARYKOVO NAM. 54 Kojetin</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221208XSB1530787553" other-account-number="237585326/0600" date-post="2022-12-08" date-eff="2022-12-08"
+                        var-sym="0" con-sym="0" spec-sym="" amount="10000.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">DOLEŽEL MICHAL</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221208V0624637" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-06" date-eff="2022-12-09"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-500.60" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">CS KROMERIZ KROMERIZ CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221208V1033487" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-06" date-eff="2022-12-09"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-20.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">IDSJMK.CZ*2b81b3c289 BRNO CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221209XSB3829739827" other-account-number="19-17608231/0100" date-post="2022-12-09" date-eff="2022-12-09"
+                        var-sym="6361209141" con-sym="0" spec-sym="" amount="-4420.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">OKAMŽITÁ ÚHRADA</trn-message>
+</trn-messages>
+<trn-messages type="advice">
+<trn-message position="1">QR-B2C portal</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221209M00094622063" other-account-number="2107047617/2700" date-post="2022-12-09" date-eff="2022-12-09"
+                        var-sym="220255125" con-sym="0308" spec-sym="" amount="-491.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">PŘÍKAZ K ÚHRADĚ</trn-message>
+</trn-messages>
+<trn-messages type="advice">
+<trn-message position="1">mobilni sluzby Emtecko</trn-message>
+</trn-messages>
+<trn-messages type="debit">
+<trn-message position="1">SB: 09.12.2022/11:38:29 0656263295</trn-message>
+</trn-messages>
+<trn-messages type="credit">
+<trn-message position="1">SB: 09.12.2022/11:38:29 0656263295</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221209M00094622103" other-account-number="2107047617/2700" date-post="2022-12-09" date-eff="2022-12-09"
+                        var-sym="220273360" con-sym="0308" spec-sym="" amount="-359.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">PŘÍKAZ K ÚHRADĚ</trn-message>
+</trn-messages>
+<trn-messages type="advice">
+<trn-message position="1">mobilni sluzby Emtecko</trn-message>
+</trn-messages>
+<trn-messages type="debit">
+<trn-message position="1">SB: 09.12.2022/11:39:14 0656263641</trn-message>
+</trn-messages>
+<trn-messages type="credit">
+<trn-message position="1">SB: 09.12.2022/11:39:14 0656263641</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221210XSB1967328114" other-account-number="237585326/0600" date-post="2022-12-10" date-eff="2022-12-12"
+                        var-sym="0" con-sym="0" spec-sym="" amount="8000.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">DOLEŽEL MICHAL</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221210XSB1975593281" other-account-number="181336514/0300" date-post="2022-12-10" date-eff="2022-12-12"
+                        var-sym="2043" con-sym="0" spec-sym="12" amount="-518.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">OKAMŽITÁ ÚHRADA</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221210V0107525" other-account-number="VÝBĚR HOTOVOSTI" date-post="2022-12-08" date-eff="2022-12-12"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-1000.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">MMB2482 MASARYKOVA 318 Brno CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221210V0425951" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-09" date-eff="2022-12-12"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-2269.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">ZASILKOVNA S.R.O. 765 KOJETIN</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221210V0586289" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-09" date-eff="2022-12-12"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-176.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">KFC D1 IVANOVICE DT IVANOVICE</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221210V0586701" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-09" date-eff="2022-12-12"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-39.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">KFC D1 IVANOVICE DT IVANOVICE</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221210V0859729" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-08" date-eff="2022-12-12"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-507.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">LEVANDULOVA CZ HORAZDOVICE CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221210V0929743" other-account-number="PLATBA KARTOU ONLINE" date-post="2022-12-09" date-eff="2022-12-12"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-627.99" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">T-MOBILE CZ PRAHA 4 CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221210V1169595" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-08" date-eff="2022-12-12"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-500.60" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">CS KROMERIZ KROMERIZ CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221210V1402961" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-08" date-eff="2022-12-12"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-40.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">IDSJMK.CZ*255bbff302 BRNO CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221212V1034885" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-09" date-eff="2022-12-13"
+                        var-sym="0000000373" con-sym="1178" spec-sym="" amount="-217.50" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">CS KROMERIZ KROMERIZ CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221212V1339305" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-11" date-eff="2022-12-13"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-1767.20" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">ALBERT VAM DEKUJE KROMERIZ CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221212V2115157" other-account-number="VÝBĚR HOTOVOSTI" date-post="2022-12-10" date-eff="2022-12-13"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-1000.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">KB RIEGROVO NAM. 138 Kromeriz</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221213XSB1791732737" other-account-number="297627815/0300" date-post="2022-12-13" date-eff="2022-12-13"
+                        var-sym="147035" con-sym="0" spec-sym="" amount="-509.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">OKAMŽITÁ ÚHRADA</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221213XSB1803209203" other-account-number="2102334203/2010" date-post="2022-12-13" date-eff="2022-12-13"
+                        var-sym="2022019" con-sym="0" spec-sym="" amount="-499.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">OKAMŽITÁ ÚHRADA</trn-message>
+</trn-messages>
+<trn-messages type="advice">
+<trn-message position="1">vitrala_ zalistování příspěvku</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221213XSB2189760481" other-account-number="237585326/0600" date-post="2022-12-13" date-eff="2022-12-13"
+                        var-sym="0" con-sym="0" spec-sym="" amount="5000.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">DOLEŽEL MICHAL</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221213V0553565" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-12" date-eff="2022-12-14"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-26.70" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">Tesco Brno Dornych Brno CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221213V0554045" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-11" date-eff="2022-12-14"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-1001.50" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">CS KROMERIZ KROMERIZ CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221213V1031543" other-account-number="PLATBA KARTOU ONLINE" date-post="2022-12-12" date-eff="2022-12-14"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-100.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">studentagency.cz Brno CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221213V1160375" other-account-number="PLATBA KARTOU ONLINE" date-post="2022-12-12" date-eff="2022-12-14"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-300.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">Vodafone Czech Rep. Praha - St</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221212236521354" other-account-number="8497959001/5500" date-post="2022-12-14" date-eff="2022-12-14"
+                        var-sym="220018" con-sym="0" spec-sym="" amount="45800.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">Narrative Media s.r.</trn-message>
+</trn-messages>
+<trn-messages type="debit">
+<trn-message position="1">Narrative Media s.r.</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221214V0386081" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-13" date-eff="2022-12-15"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-74.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">BENZINA CS 0592 KOJETIN CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221214V0720309" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-13" date-eff="2022-12-15"
+                        var-sym="0000000373" con-sym="1178" spec-sym="" amount="-1400.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">DPD DEPO 1382 HORKA NAD MOR CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221214V1293591" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-13" date-eff="2022-12-15"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-2940.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">DEPO 75 HULIN CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221214V1293593" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-12" date-eff="2022-12-15"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-20.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">IDSJMK.CZ*2d728c533d BRNO CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221214V1352727" other-account-number="VÝBĚR HOTOVOSTI" date-post="2022-12-12" date-eff="2022-12-15"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-500.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">CSOB 0925 BRNO Brno CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221214V1361901" other-account-number="PLATBA KARTOU ONLINE" date-post="2022-12-13" date-eff="2022-12-15"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-100.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">studentagency.cz Brno CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221215V0321365" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-14" date-eff="2022-12-16"
+                        var-sym="0000000373" con-sym="1178" spec-sym="" amount="-377.80" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">ALBERT VAM DEKUJE KOJETIN CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221215V1358743" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-13" date-eff="2022-12-16"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-20.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">IDSJMK.CZ*2f3c03e364 BRNO CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221215V1462269" other-account-number="VÝBĚR HOTOVOSTI" date-post="2022-12-14" date-eff="2022-12-16"
+                        var-sym="0000000373" con-sym="1178" spec-sym="" amount="-2000.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">KB MASARYKOVO NAM. 54 Kojetin</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221217V0319227" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-16" date-eff="2022-12-19"
+                        var-sym="0000000373" con-sym="1178" spec-sym="" amount="-441.80" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">COOP HB 704 KROMERIZ CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221217V0319229" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-16" date-eff="2022-12-19"
+                        var-sym="0000000373" con-sym="1178" spec-sym="" amount="-1075.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">CESKA POSTA 76831 ZLOBICE CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221217V0843273" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-16" date-eff="2022-12-19"
+                        var-sym="0000000373" con-sym="1178" spec-sym="" amount="-329.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">PRODEJNA MOIRA KROMERIZ CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221217V0843275" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-16" date-eff="2022-12-19"
+                        var-sym="0000000373" con-sym="1178" spec-sym="" amount="-1067.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">KANZELSBERGER A.S. KROMERIZ CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221217V1497175" other-account-number="VÝBĚR HOTOVOSTI" date-post="2022-12-16" date-eff="2022-12-19"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-600.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">RBCZ Brno CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221218S00097879191" other-account-number="7142110004/2700" date-post="2022-12-19" date-eff="2022-12-19"
+                        var-sym="7602103784" con-sym="" spec-sym="92358028" amount="-300.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">TRVALÝ PŘÍK.K ÚHRADĚ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221218S00097879549" other-account-number="1011-17925691/0710" date-post="2022-12-19" date-eff="2022-12-19"
+                        var-sym="78574927" con-sym="7618" spec-sym="" amount="-2588.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">TRVALÝ PŘÍK.K ÚHRADĚ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221218S00097879550" other-account-number="1112003761/0710" date-post="2022-12-19" date-eff="2022-12-19"
+                        var-sym="7602103784" con-sym="558" spec-sym="" amount="-2700.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">TRVALÝ PŘÍK.K ÚHRADĚ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221218S00097879551" other-account-number="1816016173/0300" date-post="2022-12-19" date-eff="2022-12-19"
+                        var-sym="7924750" con-sym="" spec-sym="" amount="-5000.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">TRVALÝ PŘÍK.K ÚHRADĚ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221219XSB1320925602" other-account-number="181336514/0300" date-post="2022-12-19" date-eff="2022-12-19"
+                        var-sym="2043" con-sym="0" spec-sym="" amount="-651.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">OKAMŽITÁ ÚHRADA</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221219V0299595" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-17" date-eff="2022-12-20"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-1302.80" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">ALBERT VAM DEKUJE BRNO CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221219V0605953" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-16" date-eff="2022-12-20"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-60.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">IDSJMK.CZ*233242156e BRNO CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221219V1405147" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-18" date-eff="2022-12-20"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-284.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">BENZINA CS 0592 KOJETIN CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221219V1449745" other-account-number="PLATBA KARTOU MIMO ČR" date-post="2022-12-18" date-eff="2022-12-20"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-189.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">MICROSOFT*SUBSCRIPTION MSBILL.</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221219V2019257" other-account-number="PLATBA KARTOU ONLINE" date-post="2022-12-18" date-eff="2022-12-20"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-100.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">studentagency.cz Brno CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221220V0075833" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-19" date-eff="2022-12-21"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-364.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">Alza Prague CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221220V0075835" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-19" date-eff="2022-12-21"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-564.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">Alza Prague CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221220V0075837" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-19" date-eff="2022-12-21"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-2378.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">Alza Prague CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221220V0311137" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-19" date-eff="2022-12-21"
+                        var-sym="0000000373" con-sym="1178" spec-sym="" amount="-995.80" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">ALBERT VAM DEKUJE KOJETIN CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221220V0955559" other-account-number="PLATBA KARTOU ONLINE" date-post="2022-12-19" date-eff="2022-12-21"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-99.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">ULOZ.TO/ Praha 1 CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221220V0975001" other-account-number="PLATBA KARTOU ONLINE" date-post="2022-12-19" date-eff="2022-12-21"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-100.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">studentagency.cz Brno CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221221V0371987" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-20" date-eff="2022-12-22"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-233.10" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">DM DROGERIE MARKT 404 KROMERIZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221221V0527049" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-20" date-eff="2022-12-22"
+                        var-sym="0000000373" con-sym="1178" spec-sym="" amount="-403.90" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">MORAVEL  A S KOJETIN CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221221V0612835" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-20" date-eff="2022-12-22"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-541.45" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">GURMAN HORTECH KOJET KOJETIN C</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221221V0882335" other-account-number="PLATBA KARTOU ONLINE" date-post="2022-12-20" date-eff="2022-12-22"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-100.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">studentagency.cz Brno CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221222V0172081" other-account-number="PLATBA KARTOU MIMO ČR" date-post="2022-12-21" date-eff="2022-12-23"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-39.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">MICROSOFT*SUBSCRIPTION MSBILL.</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221222V1038479" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-21" date-eff="2022-12-23"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-129.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">McDonald's - 10 Faj Velke Mezi</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221222V1038481" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-21" date-eff="2022-12-23"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-30.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">McDonald's - 10 Faj Velke Mezi</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221222V1330195" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-20" date-eff="2022-12-23"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-25.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">IDSJMK.CZ*2ce6077e89 BRNO CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221223B00022967" other-account-number="237526983/0600" date-post="2022-12-23" date-eff="2022-12-23"
+                        var-sym="" con-sym="" spec-sym="1143" amount="-11787.74" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">Spl. úv. 000237526983</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221223REU1JTRHYRC" other-account-number="4681349379/0800" date-post="2022-12-23" date-eff="2022-12-27"
+                        var-sym="220019" con-sym="0" spec-sym="" amount="28000.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">Marcela Šónová</trn-message>
+</trn-messages>
+<trn-messages type="debit">
+<trn-message position="1">Marcela Šónová</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221223V0697065" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-22" date-eff="2022-12-27"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-410.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">KAVARNA ALEX KOJETIN CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221223V0721943" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-22" date-eff="2022-12-27"
+                        var-sym="0000000373" con-sym="1178" spec-sym="" amount="-176.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">GURMAN HORTECH KOJET KOJETIN C</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221223V0723237" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-22" date-eff="2022-12-27"
+                        var-sym="0000000373" con-sym="1178" spec-sym="" amount="-130.12" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">GURMAN HORTECH KOJET KOJETIN C</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221223V1460435" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-21" date-eff="2022-12-27"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-20.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">IDSJMK.CZ*2019e6f29c BRNO CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221224V0106691" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-23" date-eff="2022-12-27"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-1196.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">Prazirna Kromeriz CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221224V0432649" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-23" date-eff="2022-12-27"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-1170.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">CESKA POSTA 76831 ZLOBICE CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221224V0432651" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-23" date-eff="2022-12-27"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-250.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">POTRAVINY ZLOBICE CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221224V0579781" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-22" date-eff="2022-12-27"
+                        var-sym="0000000373" con-sym="1178" spec-sym="" amount="-658.50" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">CS KROMERIZ KROMERIZ CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221226V0131537" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-24" date-eff="2022-12-27"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-490.80" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">ALBERT VAM DEKUJE KOJETIN CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221226V0131539" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-24" date-eff="2022-12-27"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-397.10" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">BENZINA CS 0592 KOJETIN CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221227XSB2450256337" other-account-number="1137713153/0800" date-post="2022-12-27" date-eff="2022-12-27"
+                        var-sym="5598234" con-sym="0" spec-sym="" amount="-374.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">OKAMŽITÁ ÚHRADA</trn-message>
+</trn-messages>
+<trn-messages type="advice">
+<trn-message position="1">Fler.cz obj.c.:5598234</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221227V0356697" other-account-number="VÝBĚR HOTOVOSTI" date-post="2022-12-23" date-eff="2022-12-28"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-800.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">KB MASARYKOVO NAM. 54 Kojetin</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221228V0219483" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-27" date-eff="2022-12-29"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-156.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">POTRAVINY ZLOBICE CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221228V0219485" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-27" date-eff="2022-12-29"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-79.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">POTRAVINY ZLOBICE CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221228V0483375" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-26" date-eff="2022-12-29"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-564.60" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">CS KROMERIZ KROMERIZ CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221228V0656153" other-account-number="PLATBA KARTOU ONLINE" date-post="2022-12-27" date-eff="2022-12-29"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-500.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">studentagency.cz Brno CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221229V0244805" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-28" date-eff="2022-12-30"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-255.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">KAVARNA MALEDA STC OSTRAVA CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221229V0244807" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-28" date-eff="2022-12-30"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-70.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">BENZINA CS 0592 KOJETIN CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221229V0356059" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-28" date-eff="2022-12-30"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-60.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">RJCZVLAKR8 BRNO CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221229V0458381" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-28" date-eff="2022-12-30"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-70.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">RJCZVLAK BRNO CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221229V0778301" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-28" date-eff="2022-12-30"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-458.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">REGIOJET A.S. OSTRAVA 2 CZ</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221229V0788981" other-account-number="PLATBA KARTOU V ČR" date-post="2022-12-28" date-eff="2022-12-30"
+                        var-sym="0000005749" con-sym="1178" spec-sym="" amount="-790.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">Svet techniky - prod 0 Ostrava</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221230XSB1603223059" other-account-number="2801713480/2010" date-post="2022-12-30" date-eff="2022-12-30"
+                        var-sym="112288" con-sym="0" spec-sym="" amount="-1449.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">OKAMŽITÁ ÚHRADA</trn-message>
+</trn-messages>
+
+		</transaction>
+
+                <transaction id="221230XSB1786889969" other-account-number="460045541/0100" date-post="2022-12-30" date-eff="2022-12-30"
+                        var-sym="20220746" con-sym="0" spec-sym="" amount="-508.00" contactless="0" mobile="0" 
+                        orig-ref="" date-action="" mobile-payment="0">
+			<trn-messages type="description">
+<trn-message position="2">OKAMŽITÁ ÚHRADA</trn-message>
+</trn-messages>
+
+		</transaction>
+
+	</transactions>
+	<bene>
+		<reward><type>1</type><text>Celkový výdělek na odměnách bene+</text><reward_year>0,00</reward_year><reward_all>0,00</reward_all></reward><reward><type>7</type><text>Celkem za platby kartami</text><reward_year>0,00</reward_year><reward_all>0,00</reward_all></reward><reward><type>3</type><text>Prémiové odměny celkem</text><reward_year>0,00</reward_year><reward_all>0,00</reward_all></reward><current_date>1.1.2022</current_date>
+	</bene>
+	<loyalty-bonuses>
+		
+	</loyalty-bonuses>
+
+	<marketing-info-extra></marketing-info-extra>
+	<document-revisions></document-revisions>
+	<marketing-info></marketing-info>
+	<interest-rates show="0"></interest-rates>
+	<insurance-text>1</insurance-text>
+	<attachment-path><attachment-path position="4">earchive/images/stm/att/20221230_AE_ZMENOVY_LIST-1.pdf.png</attachment-path>
+<attachment-path position="5">earchive/images/stm/att/20221230_AE_ZMENOVY_LIST-2.pdf.png</attachment-path>
+<attachment-path position="6">earchive/images/stm/att/20221230_AE_ZMENOVY_LIST-3.pdf.png</attachment-path>
+<attachment-path position="7">earchive/images/stm/att/20221230_AE_ZMENOVY_LIST-4.pdf.png</attachment-path>
+<attachment-path position="8">earchive/images/stm/att/20221230_AE_ZMENOVY_LIST-5.pdf.png</attachment-path>
+<attachment-path position="9">earchive/images/stm/att/20221230_AE_ZMENOVY_LIST-6.pdf.png</attachment-path>
+<attachment-path position="10">earchive/images/stm/att/20221230_AE_ZMENOVY_LIST-7.pdf.png</attachment-path>
+<attachment-path position="11">earchive/images/stm/att/20221230_AE_ZMENOVY_LIST-8.pdf.png</attachment-path>
+<attachment-path position="12">earchive/images/stm/att/20221230_AE_ZMENOVY_LIST-9.pdf.png</attachment-path>
+<attachment-path position="13">earchive/images/stm/att/20221230_AE_ZMENOVY_LIST-10.pdf.png</attachment-path>
+<attachment-path position="0">earchive/images/stm/att/20221230_BA_FVP_POJ_VKLADY-1.pdf.png</attachment-path>
+<attachment-path position="1">earchive/images/stm/att/20221230_BA_FVP_POJ_VKLADY-2.pdf.png</attachment-path>
+<attachment-path position="2">earchive/images/stm/att/20221230_BA_FVP_POJ_VKLADY-3.pdf.png</attachment-path>
+<attachment-path position="3">earchive/images/stm/att/20221230_BA_FVP_POJ_VKLADY-4.pdf.png</attachment-path></attachment-path>
+	<marketing-messages>
+		<marketing-image></marketing-image>
+	</marketing-messages>
+
+	<acc_no_int>237584147</acc_no_int>
+	<ir-plane>99</ir-plane>
+	<acc-opn-date>2021-01-14</acc-opn-date>
+	<cancel-insurance-letters>
+		
+	</cancel-insurance-letters>
+	<loans>
+		<loan  acc_no="237584147" stm_id="589310076" fail_stm_id="" payment_count="277" overdue_amount="0" loan_no="237526983" principal_amount="2613850.73" rpsn="1.99" import_id="2848063" loans_id="19445066" />
+	</loans>
+</statement>
