@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 ## Parse vezme XML s výpisem z Monety a udělá z toho CSV soubor(s hodnotami, které využijeme) a také výstup pro Beancount
 
 import xml.etree.ElementTree as ET
