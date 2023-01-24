@@ -17,16 +17,17 @@ print("---------------------------------------------------------------")
 ## Vypíšeme datum, amount a zprávu a naformátujeme pro beancount, jako výdaj dáme FIXME 
 
 for transaction in transactions:
-    print(transaction.attrib["date-eff"], end=" " )
-    print ("*", end=" ")
+    datum = transaction.attrib["date-eff"] + " * "
+    print (datum, end="")
     
     texty = transaction.findall('.//trn-message')
     for one in texty:
-        print('"',one.text,'"')
+        popis='"' + one.text + '"'  
+        print(popis)
     
     print ("Expenses:FIXME", end="  ")
 
-    print(transaction.attrib["amount"], " CZK")
+    print(transaction.attrib["amount"][1:], " CZK")
     print ("Assets:Moneta")
     print() 
 
