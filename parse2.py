@@ -5,7 +5,6 @@ from datetime import datetime
 import chime
 
 ## Načteme XML
-# Sample XML file with namespaces
 xml_file = 'export.xml'
 
 # Parse the XML file
@@ -28,16 +27,16 @@ if parent_element is not None:
         iso_date = input_date_obj.strftime("%Y-%m-%d")
         
         # AMOUNT:
-        attribute_value2 = child.get('amount')
-        
+        raw_amount = child.get('amount') # Je to string!
+        # Ořízneme "-" pomocí slicingu a vyměníme čárku za tečku   
+        amount = (raw_amount [1:].replace(",","."))
         # POPIS - ten je tam blbě, takže musíme takto
         trn_message_element = child.find('.//trnMessage[@position="2"]')
         if trn_message_element is not None:
             content = trn_message_element.text
             
         # tady to vypíšeme
-            # TODO čárku na tečku
             # TODO Naformátovat do Formátu Beancountu        
-        print(f"Datum: {iso_date}, Amount: {attribute_value2}, Popis: {content}")
+        print(f"Datum: {iso_date}, Amount: {amount}, Popis: {content}")
 
 chime.success()
