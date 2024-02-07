@@ -1,7 +1,9 @@
 #! /usr/bin/python3
 ## Parse vezme XML s výpisem z Monety a udělá z toho CSV soubor(s hodnotami, které využijeme) a také výstup pro Beancount
 from lxml import etree 
+from datetime import datetime
 import chime
+
 ## Načteme XML
 # Sample XML file with namespaces
 xml_file = 'export.xml'
@@ -16,7 +18,15 @@ if parent_element is not None:
     # Iterujeme skrz transakce
     for child in parent_element.iterchildren():
         # Chceme datum
-        attribute_value = child.get('date-action')
+        if child.get("date-action") is not "":  # Test, zda není atribut prázdný
+            raw_date = child.get('date-action')
+        else:
+            raw_date = "01.01.1900" # Pokud je atribut prázdný, dáme tam toto datum, podle kterého pak najdeme špatný záznam
+
+        # Konvertujeme do ISO formátu
+        input_date_obj = datetime.strptime(raw_date, "%d.%m.%Y")
+        iso_date = input_date_obj.strftime("%Y-%m-%d")
+        
         # Chceme amount
         attribute_value2 = child.get('amount')
         # Chceme popis transakce - ten je tam blbě, takže musíme takto
@@ -25,9 +35,9 @@ if parent_element is not None:
             content = trn_message_element.text
             
         # tady to vypíšeme
-            # TODO Převést datum na ISO, čárku na tečku
+            # TODO čárku na tečku
             # TODO Naformátovat do Formátu Beancountu        
-        if attribute_value is not None:
-            print(f"Datum: {attribute_value}, Amount: {attribute_value2}, Popis: {content}")
+        # if attribute_value is not None:
+            print(f"Datum: {iso_date}, Amount: {attribute_value2}, Popis: {content}")
 
 chime.success()
