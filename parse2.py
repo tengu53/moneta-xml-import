@@ -36,7 +36,12 @@ if parent_element is not None:
             content = trn_message_element.text
             
         # tady to vypíšeme
-            # TODO Naformátovat do Formátu Beancountu        
-        print(f"Datum: {iso_date}, Amount: {amount}, Popis: {content}")
+        # Uložíme to do tuple, kdybych s tím chtěl ještě nějak pracovat  
+        record = (iso_date, amount, content)
+        
+        print(record[0], " *", "\"", record[2],"\"")
+        print ("Expenses:FIXME", record [1])
+        print ("Assets:Moneta")
+
 
 chime.success()
