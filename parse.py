@@ -4,7 +4,7 @@
 import xml.etree.ElementTree as ET
 import chime
 ## Načteme XML
-tree = ET.parse('vypis12.xml')
+tree = ET.parse('export.xml')
 
 ## Najdeme transakce
 transactions = tree.findall('.//transaction')
@@ -24,7 +24,6 @@ for transaction in transactions:
     for one in texty:
         popis='"' + one.text + '"'  
         print(popis)
-    
     print ("Expenses:FIXME", end="  ")
 
     print(transaction.attrib["amount"][1:], " CZK")
