@@ -1,4 +1,4 @@
-Skript, který převede XML s výpisem bankovních trasakcí z Moneta banky, do formátu pro Beancount. Je to je základ.
+Skript, který převede XML s výpisem bankovních trasakcí z Moneta banky, do formátu pro Beancount. Nic moc chytrého, jen takový základ.
 
 ## Doporučený postup
 1. _pip install lxml_
